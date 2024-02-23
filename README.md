@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On:<br> Building a Real-Time Scalable Chat Application.<br><br>🤝 Seeking Help With:<br>Exploring the intricacies of System Design concepts.<br><br>🌱 Currently Learning:<br>Deep diving into AWS, Redis, Kafka, and Docker.<br><br>⚡ Fun Fact:<br>A little insight – I'm a genuine car geek, always up for conversations about cars!
+🔭 Currently Working On:<br> Building a Real-Time Scalable Chat Application.<br><br>🤝 Seeking Help With:<br>Exploring the intricacies of System Design concepts.<br><br>🌱 Currently Learning:<br>Deep diving into AWS, Redis, and Docker.<br><br>⚡ Fun Fact:<br>A little insight – I'm a genuine car geek, always up for conversations about cars!
 
 
 ## 🌐 Socials:
