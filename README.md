@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On:<br> Upskilling.<br><br>🤝 Seeking Help With:<br>Exploring the intricacies of System Design concepts.<br><br>🌱 Currently Learning:<br>Deep diving into AWS, Go, Redis, and Docker.<br><br>⚡ Fun Fact:<br>A little insight – I'm a genuine car geek, always up for conversations about cars!
+🔭 Currently Working On:<br> Upskilling.<br><br>🤝 Seeking Help With:<br>Exploring the intricacies of System Design concepts.<br><br>🌱 Currently Learning:<br>Deep diving into Python and FastApi.<br><br>⚡ Fun Fact:<br>A little insight – I'm a genuine car geek, always up for conversations about cars!
 
 
 ## 🌐 Socials:
